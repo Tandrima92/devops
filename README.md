@@ -1,2 +1,0 @@
-# devops
-For devops course
